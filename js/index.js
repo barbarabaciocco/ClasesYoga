@@ -22,7 +22,7 @@ function clasesPrecios (id) {
             alert("La clase de Yoga Pre-Natal cuesta $ 1300")
             break
         default:
-            alert("No entendimos tu selección")
+            alert("No entendimos tu selección.")
     }
 }
 
